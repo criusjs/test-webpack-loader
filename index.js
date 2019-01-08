@@ -1,0 +1,1 @@
+import luaTest from './test';
